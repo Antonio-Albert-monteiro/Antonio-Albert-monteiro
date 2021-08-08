@@ -1,6 +1,2 @@
-### Hi there 👋
-Here are some ideas to get you started:
-
-
-![snake gif](https://github.com/antonioalbert0/antonioalbert0/blob/output/github-contribution-grid-snake.gif)
-![Snake animation](https://github.com/antonioalbert0/antonioalbert0/blob/output/github-contribution-grid-snake.svg)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonioalbert0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioalbert0&layout=compact&langs_count=7&theme=dark"/>
