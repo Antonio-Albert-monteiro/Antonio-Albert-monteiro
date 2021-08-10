@@ -21,6 +21,6 @@
   <a href = "mailto: antonioalbert344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/AntonioAlbert0/AntonioAlbert0lob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AntonioAlbert0/AntonioAlbert0/blob/output/github-contribution-grid-snake.svg)
  
 </div>
