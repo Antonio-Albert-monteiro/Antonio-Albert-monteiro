@@ -16,10 +16,10 @@
 <div> 
   <a href="https://youtube.com/channel/UC91TMKN7AAh3XttXx_vpQMA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/HarukaYamamoto0" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/CfEqUKYST4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/V9NQbXWqUs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto: antonioalbert344@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/AntonioAlbert0/AntonioAlbert0/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/HarukaYamamoto0/HarukaYamamoto0/blob/output/github-contribution-grid-snake.svg)
  
 </div>
