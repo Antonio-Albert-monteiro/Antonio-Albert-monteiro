@@ -1,4 +1,4 @@
-## Olá, eu me chamo Haruka Yamamoto, mas vc pode me chamar só de Haruka mesmo
+## Hi, my name is Haruka Yamamoto, but you can just call me Haruka anyway
 
 
 <details>
