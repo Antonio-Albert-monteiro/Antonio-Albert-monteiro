@@ -6,8 +6,8 @@
 <div align="center">
   <a href="https://discord.gg/pqXM5T4T2y">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaYamamoto0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaYamamoto0&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
