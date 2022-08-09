@@ -1,4 +1,4 @@
-## Pleasure my name is Albert. put while I'm a discord bot creator
+## Pleasure my name is Albert. for now i am a discord bot creator
 
 - 🌱 Studying Javascript and Typescript
 - ♂️ Sex: Male
