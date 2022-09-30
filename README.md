@@ -1,6 +1,6 @@
 ## Pleasure my name is Albert, welcome to my profile
 
-- 🌱 Studying: Javascript, Typescript, Html and Css even if superficially
+- 🌱 Studying: Javascript, Typescript, Html and Css
 - ♂️ Genre: Male
 
 <div align="center">
