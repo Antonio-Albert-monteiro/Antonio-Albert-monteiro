@@ -1,17 +1,10 @@
-## Pleasure my name is Albert. for now i am a discord bot creator
+## Pleasure my name is Albert, welcome to my profile
 
-- 🌱 Studying Javascript and Typescript
-- ♂️ Sex: Male
+- 🌱 Studying: Javascript, Typescript, Html and Css even if superficially
+- ♂️ Genre: Male
 
 <div align="center">
-  <a href="https://discord.gg/pqXM5T4T2y">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaYamamoto0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
 <div align="center"> 
