@@ -2,7 +2,7 @@
 
 - 🌱 Studying: Javascript, Java, Html and Css
 - ♂️ Genre: Male
-- 🍰 Age: 16
+- 🍰 Age: 17
 - 📚 Some recent projects: [dotenvForJson](https://github.com/HarukaYamamoto0/dotenvForJson), [timestamp-calculator](https://github.com/HarukaYamamoto0/timestamp-calculator), [utility-bot](https://github.com/HarukaYamamoto0/utility-bot)
 
 <div align="center">
