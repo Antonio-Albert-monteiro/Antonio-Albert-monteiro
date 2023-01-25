@@ -1,6 +1,6 @@
 ## Pleasure my name is Albert, welcome to my profile
 
-- 🌱 Studying: Javascript, Java, Html and Css
+- 🌱 Studying: Javascript, Kotlin, Html and Css
 - ♂️ Genre: Male
 - 🍰 Age: 17
 - 📚 Some recent projects: [dotenvForJson](https://github.com/HarukaYamamoto0/dotenvForJson), [timestamp-calculator](https://github.com/HarukaYamamoto0/timestamp-calculator), [utility-bot](https://github.com/HarukaYamamoto0/utility-bot)
