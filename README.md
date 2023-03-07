@@ -1,12 +1,16 @@
 ## Pleasure my name is Albert, welcome to my profile
+I'm just a junior developer looking for my own evolution, I really like the backend, but in the future I also want to create android and desktop apps
 
-- 🌱 Studying: Javascript, Kotlin, Html and Css
-- ♂️ Genre: Male
-- 🍰 Age: 17
-- 📚 Some recent projects: [dotenvForJson](https://github.com/HarukaYamamoto0/dotenvForJson), [timestamp-calculator](https://github.com/HarukaYamamoto0/timestamp-calculator), [utility-bot](https://github.com/HarukaYamamoto0/utility-bot)
+- 🌱 Studying: ${studying}
+- ♂️ Gender: Male
+- 🍰 Age: ${age}
+- 📚 Some recent projects: ${recentProjects}
+
 
 <div align="center">
+  <a href="https://beacons.ai/HarukaYamamoto0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarukaYamamoto0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaYamamoto0&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 <div align="center"> 
