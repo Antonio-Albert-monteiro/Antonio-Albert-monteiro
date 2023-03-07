@@ -1,1 +1,1 @@
-# Olá!!! Meu nome é Albert, é um prazer te conhecer (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)
+# Hello👋, my name is Albert, nice to meet you (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)
