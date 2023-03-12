@@ -1,11 +1,10 @@
 ## Pleasure my name is Albert, welcome to my profile
 I'm just a junior developer looking for my own evolution, I really like the backend, but in the future I also want to create android and desktop apps
 
-- 🌱 Studying: ${studying}
+- 🌱 Studying: Javascript (fluent), Typescript, Kotlin
 - ♂️ Gender: Male
-- 🍰 Age: ${age}
-- 📚 Some recent projects: ${recentProjects}
-- 👀 Discord user id: 822819247146663936
+- 🍰 Age: 17
+- 📚 Some recent projects: [Tomoko-Bot](https://github.com/Tomoko-Laboratory/tomoko-bot), [dotenvForJson](https://github.com/HarukaYamamoto0/dotenvForJson), [Timestamp-Calculator](https://github.com/HarukaYamamoto0/timestamp-calculator)
 
 <div align="center">
   <a href="https://github.com/HarukaYamamoto0">
