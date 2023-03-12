@@ -8,8 +8,7 @@ I'm just a junior developer looking for my own evolution, I really like the back
 
 <div align="center">
   <a href="https://github.com/HarukaYamamoto0">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=HarukaYamamoto0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaYamamoto0&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarukaYamamoto0&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 <div align="center"> 
